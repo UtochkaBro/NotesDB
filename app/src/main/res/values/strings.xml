@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Notes</string>
+    <string name="warning_fill_fields">Не занесены поля</string>
 </resources>
